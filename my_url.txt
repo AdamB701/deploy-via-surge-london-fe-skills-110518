@@ -1,1 +1,1 @@
-jolly-snakes.surge.sh
+http://jolly-snakes.surge.sh
